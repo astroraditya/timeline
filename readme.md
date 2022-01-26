@@ -1,12 +1,12 @@
-# Personal Portfolio
+# Personal Portfolio's Timeline
 <p><em>
 Ladies and Gents, 
 
->Welcome to my Portfolio. 
+>Welcome to my Portfolio's Timeline. 
 </em></p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/version-1.8.3-yellowgreen" alt="version 2.1.2"/>
+    <img src="https://img.shields.io/badge/version-0.1.2-yellowgreen" alt="version 0.1.2"/>
     <img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="license MIT"/>
     <img src="https://img.shields.io/badge/author-JYOTIRADITYA-orange" alt="author Jyotiraditya"/>
 </p>
