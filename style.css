@@ -1,13 +1,13 @@
 body {
-  color: #768390;
-  background: #FFF;
-  font-family: "Effra", Helvetica, sans-serif;
+  color: #b120ce;
+  background: rgb(237, 238, 229);
+  font-family: "Lucida Calligraphy", Helvetica, sans-serif;
   padding: 0;
   -webkit-font-smoothing: antialiased;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #3D4351;
+  color: #000000;
   margin-top: 0;
 }
 
